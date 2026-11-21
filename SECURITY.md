@@ -1,8 +1,8 @@
 # Security Policy
 
-Tyllage builds software that handles commercially sensitive farm information and customer contact details, so we take security reports seriously.
+SoLeaf builds software that handles commercially sensitive farm information and customer contact details, so we take security reports seriously.
 
-This policy applies to every Tyllage repository and product that does not publish its own `SECURITY.md`. Where a repository has its own policy, that policy applies instead.
+This policy applies to every SoLeaf repository and product that does not publish its own `SECURITY.md`. Where a repository has its own policy, that policy applies instead.
 
 ## Reporting a vulnerability
 
@@ -11,7 +11,7 @@ This policy applies to every Tyllage repository and product that does not publis
 Report privately using one of these options:
 
 1. **GitHub:** open the affected repository's **Security** tab and click **Report a vulnerability** (where available).
-2. **Email:** [tyllage.co@gmail.com](mailto:tyllage.co@gmail.com) with the subject line `Security report`.
+2. **Email:** [soleaf.co@gmail.com](mailto:soleaf.co@gmail.com) with the subject line `Security report`.
 
 Please include:
 
@@ -24,9 +24,9 @@ We will acknowledge your report within **5 working days** and keep you updated u
 
 ## Supported versions
 
-Only the latest version of each Tyllage product, built from the repository's default branch, receives security fixes.
+Only the latest version of each SoLeaf product, built from the repository's default branch, receives security fixes.
 
-Forks and copies of Tyllage repositories are **not authorised** and are not supported. Vulnerabilities that exist only in someone else's copy are out of scope. If you find Tyllage code being used or hosted without permission, please tell us through the same private channels.
+Forks and copies of SoLeaf repositories are **not authorised** and are not supported. Vulnerabilities that exist only in someone else's copy are out of scope. If you find SoLeaf code being used or hosted without permission, please tell us through the same private channels.
 
 ## Out of scope
 
@@ -45,4 +45,4 @@ We will not take action against good-faith security research that:
 - does not degrade the service for others;
 - gives us reasonable time to fix the issue before you disclose it.
 
-Safe harbour covers security testing only. It does not grant any licence to copy, use, modify or redistribute Tyllage code.
+Safe harbour covers security testing only. It does not grant any licence to copy, use, modify or redistribute SoLeaf code.

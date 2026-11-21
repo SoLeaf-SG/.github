@@ -1,4 +1,4 @@
-<!-- Tyllage team members only. Pull requests from outside the Tyllage team are closed without review. See CONTRIBUTING.md. -->
+<!-- SoLeaf team members only. Pull requests from outside the SoLeaf team are closed without review. See CONTRIBUTING.md. -->
 
 ## What does this change?
 
